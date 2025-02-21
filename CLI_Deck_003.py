@@ -109,6 +109,10 @@ print(user.hand)
 #   <__main__.Card object at 0x7f960f1610>
 #   [<__main__.Card object at 0x7f960f1610>]
 
+# It returns the memory location. IDK how to get it to call the card attributes for C (the randomly selected Card)
+
+# I know that the card got assinged since printing C, and printing hand both show the same object address, how do I print the card's attributes?
+
 print(user.hand(Card.show))
 
 # Output
