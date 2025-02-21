@@ -1,2 +1,1 @@
-# CLI_Blackjack
-A simple CLI game of Blackjack aka 21
+Making a CLI deck of cards
