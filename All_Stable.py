@@ -170,4 +170,4 @@ for i in user.hand:
     print(i)
     
 # it's still printing out the memory locations. IDK how to pass the card attribues for the cards
-# currently in the hand or on the table witout needing  to use the indexes
+# currently in the hand or on the table (area_A) witout needing  to use the indexes
